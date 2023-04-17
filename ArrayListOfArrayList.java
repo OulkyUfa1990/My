@@ -3,9 +3,7 @@
 import java.util.ArrayList;
 
 public class ArrayListOfArrayList {
-
     public static void main(String args[]) {
-
         int vertexCount = 3;
         ArrayList<ArrayList<Integer>> graph = new ArrayList<>(vertexCount);
 
@@ -33,5 +31,5 @@ public class ArrayListOfArrayList {
             }
         }
     }
-
+    //Конец программы
 }
