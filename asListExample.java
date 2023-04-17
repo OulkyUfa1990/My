@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class asListExample {
-
     public static <T> List<T> convertArrayToList(T array[])
 
     {
