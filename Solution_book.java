@@ -11,7 +11,7 @@ import java.util.LinkedList;
 import java.util.List;
 public class Solution_book {
     public static void main(String[] args) {
-        List<Book> books = new LinkedList<Book>();
+        List<Book> books = new LinkedList<>();
         books.add(new MarkTwainBook("Tom Sawyer"));
         books.add(new AgathaChristieBook("Hercule Poirot"));
         System.out.println(books);
