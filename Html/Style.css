@@ -1,0 +1,28 @@
+body {
+	background: #99CF57;
+}
+
+H1 {
+  color: black;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: left;
+}
+P {
+  padding-left: 30px;
+}
+button{
+	height: 20px;
+    background-color: #1f8220;
+}
+.init {
+    width: 200px;
+    height: 80px;
+    background: #fc0;
+    padding: 5px;
+    border: solid 1px black;
+    float: right;
+    position: relative;
+    top: 5px;
+    left: -70px;
+}
